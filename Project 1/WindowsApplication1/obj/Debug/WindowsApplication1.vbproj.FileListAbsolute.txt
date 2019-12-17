@@ -1,0 +1,11 @@
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Ridwan\college work\Anthony\My own projects\Project 1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

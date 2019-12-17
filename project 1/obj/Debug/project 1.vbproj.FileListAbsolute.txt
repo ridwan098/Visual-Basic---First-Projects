@@ -1,0 +1,11 @@
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\bin\Debug\project 1.exe.config
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\bin\Debug\project 1.exe
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\bin\Debug\project 1.pdb
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\bin\Debug\project 1.xml
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project 1.vbprojResolveAssemblyReference.cache
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project_1.Form1.resources
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project_1.Resources.resources
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project 1.vbproj.GenerateResource.Cache
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project 1.exe
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project 1.xml
+D:\Ridwan\college work\Anthony\My own projects\lesson 3\project 1\obj\Debug\project 1.pdb
